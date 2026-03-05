@@ -1,6 +1,4 @@
 # AmneziaWG Configuration QR Generator
-Простая программа для генерации QR-кодов из конфигурационных файлов AmneziaWG. Позволяет легко перенести настройки VPN на мобильные устройства путем сканирования кода.
-
 <div align="center">
   <img src="logo/logo.png" alt="AmneziaWG Config to QR Logo" width="400"/>
   <p><i>Генератор QR-кодов для конфигураций AmneziaWG</i></p>
