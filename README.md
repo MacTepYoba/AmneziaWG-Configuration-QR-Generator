@@ -158,7 +158,7 @@ pyinstaller --onefile --windowed --icon=icon/icon.ico --add-data "icon;icon" --a
 
 MIT License
 
-Copyright (c) 2026 Evgeny Khramtsov
+Copyright (c) 2026 MacTep Yoba
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the
