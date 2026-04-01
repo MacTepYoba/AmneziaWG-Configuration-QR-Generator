@@ -53,7 +53,7 @@ python awgqr.py
 
 ## 🔧 Сборка в исполняемый файл
 
-Для создания standalone .exe файла (не требует установки Python):
+Для создания standalone .exe файла:
 
 ``` bash
 pip install pyinstaller
@@ -140,8 +140,8 @@ pyinstaller --onefile --windowed --icon=icon/icon.ico --add-data "icon;icon" --a
 
 Или отправьте Pull Request:
 
-1.  Форкните репозиторий\
-2.  Создайте ветку\
+1.  Форкните репозиторий
+2.  Создайте ветку
 3.  Отправьте pull request
 
 
