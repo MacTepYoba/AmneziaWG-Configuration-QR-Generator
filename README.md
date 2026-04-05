@@ -72,7 +72,6 @@ pyinstaller --onefile --windowed --icon=icon/icon.ico --add-data "icon;icon" --a
     │   └── icon.ico
     ├── logo/
     │   └── logo.png
-    ├── screenshots/
     ├── LICENSE
     └── README.md
 
